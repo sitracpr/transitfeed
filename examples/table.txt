@@ -1,8 +1,8 @@
 options
 weekday
-start_date	20070315
-end_date	20071215
-remove_date	20070704
+start_date	20190101
+end_date	20190130
+remove_date	20190201
 agency_name	Gbus
 agency_url	http://shuttle/
 agency_timezone	America/Los_Angeles
